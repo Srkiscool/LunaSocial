@@ -386,7 +386,7 @@ h6 {
 .navbar-mobile .active:before {
   visibility: hidden;
 }
-
+header-scrolled
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
